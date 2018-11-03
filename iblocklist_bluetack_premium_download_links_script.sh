@@ -54,5 +54,5 @@ cd ..
 rm -rf tmp
 echo -e "\n`ls -lah | grep p2p`\n8====D\nShe was a ho, fosho\n"
 else
-    echo -e "Enlightenment is key to your journey, Tyrone."
+    echo -e "You have chosen... unwisely!"
 fi
